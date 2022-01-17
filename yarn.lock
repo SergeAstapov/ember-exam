@@ -1317,19 +1317,6 @@
     resolve "^1.20.0"
     semver "^7.3.2"
 
-"@embroider/macros@^0.48.1":
-  version "0.48.1"
-  resolved "https://registry.yarnpkg.com/@embroider/macros/-/macros-0.48.1.tgz#fc1fd10857d40e80a20c0d366a1a8007aa424e83"
-  integrity sha512-JtcOL3pSxI8prstQomzNNHPBqG1K5JwrIuZwH+Q9TK4nONIH2F4z0Z0pd0SZmTEjF17E4gZN3g1J3vSX4zKuww==
-  dependencies:
-    "@embroider/shared-internals" "0.48.1"
-    assert-never "^1.2.1"
-    ember-cli-babel "^7.26.6"
-    find-up "^5.0.0"
-    lodash "^4.17.21"
-    resolve "^1.20.0"
-    semver "^7.3.2"
-
 "@embroider/shared-internals@0.43.5":
   version "0.43.5"
   resolved "https://registry.yarnpkg.com/@embroider/shared-internals/-/shared-internals-0.43.5.tgz#4269208095452c23bfa4f08554fd8f7ed7b83a83"
@@ -1355,19 +1342,6 @@
     semver "^7.3.5"
     typescript-memoize "^1.0.1"
 
-"@embroider/shared-internals@0.48.1":
-  version "0.48.1"
-  resolved "https://registry.yarnpkg.com/@embroider/shared-internals/-/shared-internals-0.48.1.tgz#4f0dcde8dba2fa47c862746898a1846a31e27f80"
-  integrity sha512-6Q73QXGUQianIb3xRpMNl8VMECSatA1NhjXxeIyYzwKraWhhMBpXvysLpbJ8ib1rQe1ajmkoDdXgT5pAnVMXrg==
-  dependencies:
-    babel-import-util "^0.2.0"
-    ember-rfc176-data "^0.3.17"
-    fs-extra "^9.1.0"
-    lodash "^4.17.21"
-    resolve-package-path "^4.0.1"
-    semver "^7.3.5"
-    typescript-memoize "^1.0.1"
-
 "@embroider/shared-internals@0.50.2", "@embroider/shared-internals@^0.50.0":
   version "0.50.2"
   resolved "https://registry.yarnpkg.com/@embroider/shared-internals/-/shared-internals-0.50.2.tgz#567c5451db31a1f3edc2f64376ce5a0dcaaabacb"
@@ -1381,10 +1355,10 @@
     semver "^7.3.5"
     typescript-memoize "^1.0.1"
 
-"@embroider/test-setup@0.48.1":
-  version "0.48.1"
-  resolved "https://registry.yarnpkg.com/@embroider/test-setup/-/test-setup-0.48.1.tgz#f64da84f8241433d0ba92154fa1eb3137ecd4df8"
-  integrity sha512-MmYTgQMDVDrZPvxeT27LTUD/BOum21ip1tEYv5H/StSeTZyZQ861Q+8HXQUFTVF/HFjGAB1c/BAgnw+8hO1ueA==
+"@embroider/test-setup@0.50.2":
+  version "0.50.2"
+  resolved "https://registry.yarnpkg.com/@embroider/test-setup/-/test-setup-0.50.2.tgz#b9237db0de414649bf465616e073783967066672"
+  integrity sha512-j3H1ORmHu9xUgdRhPR0ERMc7dJb7uRcNT+c5+nxZfX9825YR0uNC8u+gjLcu9KLnrFt3wP08TrTFJmny0MB+BQ==
   dependencies:
     lodash "^4.17.21"
     resolve "^1.20.0"
